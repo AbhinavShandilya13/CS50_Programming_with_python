@@ -7,18 +7,14 @@ Welcome to my CS50 Programming with Python repository! This repository contains 
 
 ## Course Overview
 
-CS50 Programming with Python is a comprehensive introduction to computer science and programming using the Python language. The course covers a wide range of topics, from the basics of programming to more advanced concepts, data structures, algorithms, and even web development.
+CS50 Programming with Python is a comprehensive introduction to computer science and programming using the Python language. The course covers a wide range of topics, from the basics of programming to more advanced concepts and even web development.
 
 ## Problem Sets
 
 In this repository, you will find my solutions to the various problem sets assigned throughout the course. Each problem set is a hands-on exercise designed to help reinforce the concepts covered in the lectures.
 
-- **Problem Set 1:** Introduction to Python and basics of programming.
-- **Problem Set 2:** More advanced programming concepts and algorithms.
-- **Problem Set 3:** Working with data structures and algorithms.
-- **Problem Set 4:** Introduction to web development using Python and Flask.
-- **Problem Set 5:** More advanced web development and databases.
-- **...** *(Add more problem sets as you progress through the course)*
+- **Problem Set 0:** Introduction to Python and basics of programming.
+
 
 Feel free to explore the solutions, learn from them, and provide any feedback or suggestions.
 
