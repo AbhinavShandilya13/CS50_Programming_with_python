@@ -41,7 +41,8 @@ I welcome any contributions, improvements, or suggestions for the solutions I've
 Connect with Me:
 
 If you'd like to connect, discuss the course, or collaborate on projects, you can find me on 
-LinkedIn - linkedin.com/in/abhinavshandilya03
+
+LinkedIn - https://linkedin.com/in/abhinavshandilya03
 
 Twitter - https://twitter.com/Tangent_09
 
