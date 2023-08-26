@@ -14,6 +14,7 @@ CS50 Programming with Python is a comprehensive introduction to computer science
 In this repository, you will find my solutions to the various problem sets assigned throughout the course. Each problem set is a hands-on exercise designed to help reinforce the concepts covered in the lectures.
 
 - **Problem Set 0:** Introduction to Python and basics of programming.
+- **Problem Set 1:** Discussing about the conditionals( if, else and elif)
 
 
 Feel free to explore the solutions, learn from them, and provide any feedback or suggestions.
